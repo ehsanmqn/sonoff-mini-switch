@@ -9,6 +9,8 @@ Sonoff Mini Switch Arduino source code over MQTT using [ThingsBoard](https://thi
 #### Sonoff Mini
 The Sonoff Mini is, as the name implies, a very small device, designed to be hidden where there's only supposed to be cables. Since it's not supposed to be visible, it's also designed to easily attach an external button.
 
+![image](sonoffmini.jpg)
+
 #### Flashing
 Several free GPIO are available. The OTA jumper pin is the most accessible and very easy to use on a pin header.
 
