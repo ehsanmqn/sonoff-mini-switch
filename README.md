@@ -15,5 +15,10 @@ Several free GPIO are available. The OTA jumper pin is the most accessible and v
 ![image](1.jpg)
 
 #### Requirements
-1. PubSubClient 2.6
-2. ArduinoJson 5.8.0
+Open Arduino IDE and go to Sketch -> Include Library -> Manage Libraries. Find and install the following libraries:
+
+1. [PubSubClient 2.6 by Nick O’Leary](http://pubsubclient.knolleary.net/)
+2. [ArduinoJson 5.8.0 by Benoit Blanchon](https://github.com/bblanchon/ArduinoJson)
+
+
+Happy coding!!!
