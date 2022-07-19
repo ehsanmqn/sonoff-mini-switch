@@ -12,7 +12,7 @@ The Sonoff Mini is, as the name implies, a very small device, designed to be hid
 #### Flashing
 Several free GPIO are available. The OTA jumper pin is the most accessible and very easy to use on a pin header.
 
-![image](1.png)
+![image](1.jpg)
 
 #### Requirements
 1. PubSubClient 2.6
