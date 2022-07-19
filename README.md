@@ -1,4 +1,4 @@
-# sonoff-mini-switch
+# Sonoff Mini switch with MQTT and Thingsboard
 Sonoff Mini Switch Arduino source code over MQTT using [ThingsBoard](https://thingsboard.io/) (Has implemented by reverse engineering the switch functionality)
 
 ## Contents
