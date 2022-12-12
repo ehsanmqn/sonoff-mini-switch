@@ -30,7 +30,7 @@
 
 // Server Configuration
 int mqttPort = 1883;
-char dmiotServer[] = "THINGSBOARD_SERVER_ADDRESS";
+char platformServer[] = "THINGSBOARD_SERVER_ADDRESS";
 
 // We assume that all GPIOs are LOW
 bool gpioState[] = {false, false, false, false};
